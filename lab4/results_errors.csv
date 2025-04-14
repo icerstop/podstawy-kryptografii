@@ -1,0 +1,13 @@
+File,Mode,Input Diff,Cipher Diff
+small.txt,ECBMode,15,16
+small.txt,CBCMode,1044460,17
+small.txt,CTRMode,1,1
+small.txt,ManualCBC,1044476,17
+medium.txt,ECBMode,16,16
+medium.txt,CBCMode,10444582,17
+medium.txt,CTRMode,1,1
+medium.txt,ManualCBC,10444598,17
+large.txt,ECBMode,16,16
+large.txt,CBCMode,52223620,17
+large.txt,CTRMode,1,1
+large.txt,ManualCBC,52223636,17
